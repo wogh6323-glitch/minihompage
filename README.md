@@ -13,3 +13,7 @@
 # about
 
 - about 이미지
+
+# buy
+
+- buy 이미지
