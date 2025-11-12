@@ -5,3 +5,11 @@
 # nav
 
 - nav 이미지
+
+# cart
+
+- cart 이미지
+
+# about
+
+- about 이미지
